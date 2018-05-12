@@ -15,6 +15,8 @@ creator:
     - http://de.wikipedia.org/wiki/Jakob_Wassermann
     - http://en.wikipedia.org/wiki/Jakob_Wassermann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36918#Die-Schaffnerin--Die-M-chtigen--Novellen
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2011-07-31'
 gutenberg_type: Text
